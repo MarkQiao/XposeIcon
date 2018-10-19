@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Xposedtest</string>
+    <string name="button">Button</string>
+    <string name="show_icon">显示图标</string>
+    <string name="hide_icon">隐藏图标</string>
+
+</resources>
